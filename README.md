@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
--Mobile view screenshots
-  -[mobile-screenshot-1](./images/mobile-screenshot-1.jpg)
-  -[mobile-screenshot-2](./images/mobile-screenshot-2.jpg)
+- Mobile view screenshots
+  - [mobile-screenshot-1](./images/mobile-screenshot-1.jpg)
+  - [mobile-screenshot-2](./images/mobile-screenshot-2.jpg)
 
--Desktop view screenshots
-  -[desktop-screenshot-1](./images/desktop-screenshot-1.png)
-  -[desktop-screenshot-2](./images/desktop-screenshot-2.png)
+- Desktop view screenshots
+  - [desktop-screenshot-1](./images/desktop-screenshot-1.png)
+  - [desktop-screenshot-2](./images/desktop-screenshot-2.png)
 
 
 ### Links
