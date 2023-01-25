@@ -29,18 +29,18 @@ Users should be able to:
 ### Screenshot
 
 -Mobile view screenshots
-  -[](./images/mobile-screenshot.jpg)
-  -[](./images/mobile-screenshot1.jpg)
+  -[mobile-screenshot-1](./images/mobile-screenshot-1.jpg)
+  -[mobile-screenshot-2](./images/mobile-screenshot-2.jpg)
 
 -Desktop view screenshots
-  -[](./images/desktop-screenshot.jpg)
-  -[](./images/desktop-screenshot1.jpg)
+  -[desktop-screenshot-1](./images/desktop-screenshot-1.png)
+  -[desktop-screenshot-2](./images/desktop-screenshot-2.png)
 
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Tauya2003/Interactive-Rating-Component-FM](https://github.com/Tauya2003/Interactive-Rating-Component-FM)
+- Live Site URL: [https://tauya2003.github.io/Interactive-Rating-Component-FM/](https://tauya2003.github.io/Interactive-Rating-Component-FM/)
 
 
 ## My process
